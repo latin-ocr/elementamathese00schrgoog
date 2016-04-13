@@ -1,0 +1,55 @@
+.“· Recursus-riuus. Ι437
+
+,5. 398. cml. ι.
+
+Ex hae Definitione collata cum ς. 391-39‘6.
+
+se uiturt
+(i. Series Coeflieientium Queri, in quern Di·
+
+visione convertitur Fractlo formae ἐξ, :s
+
+ammaum-¹
+
+amaseae ÷px·
+relationis constat ex m numeris, qui sunt
+
+-b-c-d
+
+73- , ῖ- , —a' etc. Quare est Series roeurrens
+
+mtimi ordinis, etiamsi nonnulli intermedii numeri
+b,c,d.. . possint esse 0. Fractio ipsa generatrix
+dicitur.
+
+2. Omnis Series Arithmetica ιιι-ι timi ordinis
+ost Series recurrens mrimi ordinis. Haec enim Se·
+ries Arithmetica est Series Coefficientium Quoti,
+afflxmffxffl
+. (r-x)· ’
+quae est Fractlo generatrix Seriei recurrentis mtimi
+
+(nr-r)
+
+ordinis, cujus Scala relationis est m, ·- --
+
+ω’
+
+’”·(ζ”“ζζ),(’ζ“’)- s· as et ³⁹⁶·
+
+3. Scala relationis, m terminorum non definit
+priores m terminos Seriei ' recurrentis mtimi ordi·
+nis, quoniam hi termini etiam pendent ex Coeiii·
+cientibus in Numeratore Fractionis generatricis.
+’ Quare ex data Scala relationis infinitus numerus
+Serieram inter sediversarnm constitui potest, quo·
+
+niam priores or termini ad libitum sumi moselant.
+,Kkk ro·
+
+est recurrens. Ejus Scala
+
+in quem convertitur Fractio formae
+
+ 
+

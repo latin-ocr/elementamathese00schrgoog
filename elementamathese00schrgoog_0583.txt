@@ -1,0 +1,45 @@
+570 Ρ. 11. C., V. *nn Nttmznotuu
+
+Demonstratio-
+
+, Per se patet, omnes hujus numeri N Diviso·
+tes prodire, si hte Series inter 'se multiplicantur:
+1÷a÷a²...a·,1÷b÷b²...b·‚1÷c÷c²...÷c·‚
+etc. dummodo unitas atque numerus ipse N inter
+Divisores etiam admittantur. s
+
+' Cum autem prima Series 1÷a÷a² .. . 4- a· con·
+tineat (m÷1) terminos, secunda 1÷b÷ ὃ· ..Α-ὂ·
+contineat (n÷1)‚ tertia (p÷1)‚ quarta (q÷1) ...
+terminos3 sequitur Productum(m÷1>(n÷1')(p÷1)
+(qt-1) ... indicare, quot sint Divisores in nu·
+meto N. Summa autem Divisorurn‚ quam desig.
+nemus hac nota S .(N), est Productum harum
+Setierum, id est:
+S(N)=(1÷a÷a²...4an)(1÷b4b²...÷bn)
+
+ἀπῇ-1 batt-,1 σιμ-ι
+
+‹1÷0⁴⁴²···÷0·>···=·2·.:;····b·:s ··.:····
+(§.207.). Velut si N :60:2².3. 5, Divisorum
+numerus est 3.2.2=12. Summa horum Diviso-
+
+ἓξ] ³12¹ ἵζ’-ΖΕΒ-
+
+rum est . ..1680
+
+1 2 4 *12 4
+ἕ. 534. Coroll. 1.
+
+Ἴ Si N: abed. . ‚vel si N constat ext numeris sim·
+plicibus, Numerus Divisorum est 2. 2. ο . . :2⁸
+t atque Summa Divisorum‚ sive S(N) est = (a÷1)
+(b÷1)(c÷1).. .; velut si N=2.3.5.7=210‚
+Numerus Divisorum est 2⁴:16, atque ipsorum
+Summa = 3.4.6.8=576. Hi numeri sunt
+quinque primi, 1, 2, 3, 5, 7: sex facti ex duo·
+
+bus 2.3, Μ, m, 3.5, Μ, sq: quatgocr
+
+ 
+
